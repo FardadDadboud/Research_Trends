@@ -2,7 +2,7 @@
 Papers and links will be provided. 
 
 
-Contrastiv explanation:
+Contrastive explanation:
 https://github.com/IBM/Contrastive-Explanation-Method.git
 
 
