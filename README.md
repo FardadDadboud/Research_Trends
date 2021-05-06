@@ -20,7 +20,9 @@ CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Fea
 
 # Unsupervised Representation Learning
 A Simple Framework for Contrastive Learning of Visual Representations: https://arxiv.org/abs/2002.05709
+
 Representation Learning by Learning to Count: https://arxiv.org/abs/1708.06734
+
 Self-Supervised Feature Learning by Learning to Spot Artifacts: https://arxiv.org/abs/1806.05024
 
 # Unclassified
