@@ -29,6 +29,14 @@ SimCLR: A Simple Framework for Contrastive Learning of Visual Representations: h
 
 MoCo: Momentum Contrast for Unsupervised Visual Representation Learning: https://github.com/facebookresearch/moco
 
+Barlow Twins: Self-Supervised Learning via Redundancy Reduction: https://github.com/facebookresearch/barlowtwins
+
+Self-Supervised Representation Learning from Flow Equivariance: 
+https://arxiv.org/abs/2101.06553
+
+
+Bootstrap your own latent (BYoL): A new approach to self-supervised Learning: https://github.com/deepmind/deepmind-research/tree/master/byol
+
 
 Representation Learning by Learning to Count: https://arxiv.org/abs/1708.06734
 
