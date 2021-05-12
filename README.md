@@ -25,6 +25,12 @@ CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Fea
 
 # Unsupervised Representation Learning
 
+## General Concept
+
+* **Berekely Course - Deep Unsupervised Learning - Spring 2020 - L7:** Self-Supervised Learning / Non-Generative Representation Learning: https://www.youtube.com/watch?v=dMUes74-nYY
+
+* **Self Supervised Learning for Object Detection:** https://www.youtube.com/watch?v=q_ZI5dPPBM8
+
 ## Contrastive Learning
 
 * **SimCLR:** A Simple Framework for Contrastive Learning of Visual Representations: https://arxiv.org/abs/2002.05709
