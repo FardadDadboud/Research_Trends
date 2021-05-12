@@ -25,7 +25,10 @@ CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Fea
 
 # Unsupervised Representation Learning
 
-A Simple Framework for Contrastive Learning of Visual Representations: https://arxiv.org/abs/2002.05709
+SimCLR: A Simple Framework for Contrastive Learning of Visual Representations: https://arxiv.org/abs/2002.05709
+
+MoCo: Momentum Contrast for Unsupervised Visual Representation Learning: https://github.com/facebookresearch/moco
+
 
 Representation Learning by Learning to Count: https://arxiv.org/abs/1708.06734
 
