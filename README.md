@@ -25,9 +25,13 @@ CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Fea
 
 # Unsupervised Representation Learning
 
-SimCLR: A Simple Framework for Contrastive Learning of Visual Representations: https://arxiv.org/abs/2002.05709
+## Contrastive Learning
 
-MoCo: Momentum Contrast for Unsupervised Visual Representation Learning: https://github.com/facebookresearch/moco
+* **SimCLR:** A Simple Framework for Contrastive Learning of Visual Representations: https://arxiv.org/abs/2002.05709
+
+* **MoCo:** Momentum Contrast for Unsupervised Visual Representation Learning: https://github.com/facebookresearch/moco
+
+## Others
 
 Barlow Twins: Self-Supervised Learning via Redundancy Reduction: https://github.com/facebookresearch/barlowtwins
 
