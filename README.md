@@ -29,7 +29,7 @@ CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Fea
 
 * **Berekely Course - Deep Unsupervised Learning - Spring 2020 - L7:** Self-Supervised Learning / Non-Generative Representation Learning: https://www.youtube.com/watch?v=dMUes74-nYY
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/dMUes74-nYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  [![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=dMUes74-nYY)](https://www.youtube.com/watch?v=dMUes74-nYY "Everything Is AWESOME")
 
 * **Self Supervised Learning for Object Detection:** https://www.youtube.com/watch?v=q_ZI5dPPBM8
 
