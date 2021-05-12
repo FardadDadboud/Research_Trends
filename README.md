@@ -32,6 +32,7 @@ CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Fea
   [![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=dMUes74-nYY)](https://www.youtube.com/watch?v=dMUes74-nYY "Self-Supervised Learning / Non-Generative Representation Learning")
 
 * **Self Supervised Learning for Object Detection:** https://www.youtube.com/watch?v=q_ZI5dPPBM8
+  [![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=q_ZI5dPPBM8)](https://www.youtube.com/watch?v=q_ZI5dPPBM8 "SSelf Supervised Learning for Object Detection")
 
 ## Contrastive Learning
 
