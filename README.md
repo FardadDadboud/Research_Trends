@@ -56,6 +56,10 @@ Representation Learning by Learning to Count: https://arxiv.org/abs/1708.06734
 
 Self-Supervised Feature Learning by Learning to Spot Artifacts: https://arxiv.org/abs/1806.05024
 
+Watching the World Go By: Representation Learning from Unlabeled Videos: https://arxiv.org/abs/2003.07990
+
+Space-Time Correspondence as a Contrastive Random Walk: https://github.com/ajabri/videowalk
+
 # Unclassified
 
 Deep learning time series forcasting:
