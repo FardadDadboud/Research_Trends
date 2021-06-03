@@ -44,7 +44,7 @@ CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Fea
 
 ### From Videos
 
-Self-Supervised Representation Learning from Flow Equivariance: https://arxiv.org/abs/2101.06553
+* Self-Supervised Representation Learning from Flow Equivariance: https://arxiv.org/abs/2101.06553
 
 ## Others
 
