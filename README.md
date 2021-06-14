@@ -52,10 +52,6 @@ CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Fea
 
 * **MoCo:** Momentum Contrast for Unsupervised Visual Representation Learning: https://github.com/facebookresearch/moco
 
-### From Videos
-
-* Self-Supervised Representation Learning from Flow Equivariance: https://arxiv.org/abs/2101.06553
-
 ## Bootstraping
 
 * Bootstrap your own latent (BYoL): A new approach to self-supervised Learning: https://github.com/deepmind/deepmind-research/tree/master/byol
