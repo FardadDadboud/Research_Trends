@@ -23,6 +23,16 @@ mixup: Beyond Empirical Risk Minimization: https://arxiv.org/abs/1710.09412
 
 CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features: https://arxiv.org/abs/1905.04899
 
+# Object Detection
+
+* YOLO V1: You Only Look Once: Unified, Real-Time Object Detection: https://arxiv.org/abs/1506.02640
+
+* YOLO V2: YOLO9000: Better, Faster, Stronger: https://arxiv.org/abs/1612.08242
+
+* YOLO V3: An Incremental Improvement: https://arxiv.org/abs/1804.02767
+
+* YOLO V4: Optimal Speed and Accuracy of Object Detection: https://arxiv.org/abs/2004.10934
+
 # Unsupervised Representation Learning
 
 ## General Concepts
@@ -46,11 +56,15 @@ CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Fea
 
 * Self-Supervised Representation Learning from Flow Equivariance: https://arxiv.org/abs/2101.06553
 
+## Bootstraping
+
+Bootstrap your own latent (BYoL): A new approach to self-supervised Learning: https://github.com/deepmind/deepmind-research/tree/master/byol
+
+FLOWE: Self-Supervised Representation Learning from Flow Equivariance: https://arxiv.org/abs/2101.06553
+
 ## Others
 
 Barlow Twins: Self-Supervised Learning via Redundancy Reduction: https://github.com/facebookresearch/barlowtwins
-
-Bootstrap your own latent (BYoL): A new approach to self-supervised Learning: https://github.com/deepmind/deepmind-research/tree/master/byol
 
 Representation Learning by Learning to Count: https://arxiv.org/abs/1708.06734
 
