@@ -74,6 +74,8 @@ Watching the World Go By: Representation Learning from Unlabeled Videos: https:/
 
 Space-Time Correspondence as a Contrastive Random Walk: https://github.com/ajabri/videowalk
 
+Unsupervised learning of object frames by dense equivariant image labelling: https://arxiv.org/abs/1706.02932
+
 # Unclassified
 
 Deep learning time series forcasting:
