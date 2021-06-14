@@ -58,9 +58,9 @@ CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Fea
 
 ## Bootstraping
 
-Bootstrap your own latent (BYoL): A new approach to self-supervised Learning: https://github.com/deepmind/deepmind-research/tree/master/byol
+* Bootstrap your own latent (BYoL): A new approach to self-supervised Learning: https://github.com/deepmind/deepmind-research/tree/master/byol
 
-FLOWE: Self-Supervised Representation Learning from Flow Equivariance: https://arxiv.org/abs/2101.06553
+* FLOWE: Self-Supervised Representation Learning from Flow Equivariance: https://arxiv.org/abs/2101.06553
 
 ## Others
 
