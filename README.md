@@ -25,6 +25,12 @@ CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Fea
 
 # Object Detection
 
+## General Concepts
+
+* C4W3L01 to C4W3L10: https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
+
+## One-Stage
+
 * YOLO V1: You Only Look Once: Unified, Real-Time Object Detection: https://arxiv.org/abs/1506.02640
 
 * YOLO V2: YOLO9000: Better, Faster, Stronger: https://arxiv.org/abs/1612.08242
