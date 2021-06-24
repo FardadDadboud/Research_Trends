@@ -58,6 +58,8 @@ CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Fea
 
 * FLOWE: Self-Supervised Representation Learning from Flow Equivariance: https://arxiv.org/abs/2101.06553
 
+* Emerging Properties in Self-Supervised Vision Transformers: https://github.com/facebookresearch/dino
+
 ## Others
 
 Barlow Twins: Self-Supervised Learning via Redundancy Reduction: https://github.com/facebookresearch/barlowtwins
