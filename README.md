@@ -41,6 +41,10 @@ CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Fea
 
 * YOLO V5: https://github.com/ultralytics/yolov5
 
+# Vision Transformers
+
+* An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale: https://github.com/google-research/vision_transformer
+
 # Unsupervised Representation Learning
 
 ## General Concepts
@@ -67,6 +71,16 @@ CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Fea
 * FLOWE: Self-Supervised Representation Learning from Flow Equivariance: https://arxiv.org/abs/2101.06553
 
 * Emerging Properties in Self-Supervised Vision Transformers: https://github.com/facebookresearch/dino
+
+## In the Applications
+
+### Car Detection and Tracking
+
+* There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge: https://arxiv.org/abs/2103.01353
+
+### Moving Animal Detection
+
+* Self-supervised Video Object Segmentation by Motion Grouping: https://arxiv.org/abs/2104.07658
 
 ## Others
 
