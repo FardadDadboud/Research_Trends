@@ -39,6 +39,8 @@ CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Fea
 
 * YOLO V4: Optimal Speed and Accuracy of Object Detection: https://arxiv.org/abs/2004.10934
 
+* YOLO V5: https://github.com/ultralytics/yolov5
+
 # Unsupervised Representation Learning
 
 ## General Concepts
