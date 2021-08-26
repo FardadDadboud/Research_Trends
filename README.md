@@ -41,6 +41,14 @@ CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Fea
 
 * YOLO V5: https://github.com/ultralytics/yolov5
 
+## Two-Stage
+
+* RCNN: Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation: https://github.com/rbgirshick/rcnn
+* Fast-RCNN: https://github.com/rbgirshick/fast-rcnn
+* Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks: https://github.com/rbgirshick/py-faster-rcnn
+* Mask-RCNN: https://arxiv.org/abs/1703.06870
+* Feature Pyramid Networks for Object Detection: https://arxiv.org/abs/1612.03144v2
+
 # Vision Transformers
 
 * An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale: https://github.com/google-research/vision_transformer
