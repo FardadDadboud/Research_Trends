@@ -57,6 +57,8 @@ CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Fea
 
 * EfficientDet: Scalable and Efficient Object Detection: https://arxiv.org/abs/1911.09070
 
+* Swin Transformer: Hierarchical Vision Transformer using Shifted Windows: https://arxiv.org/abs/2103.14030 
+
 
 ## Two-Stage
 
