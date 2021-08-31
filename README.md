@@ -31,6 +31,8 @@ CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Fea
 
 ## One-Stage
 
+### YOLO Family
+
 * YOLO V1: You Only Look Once: Unified, Real-Time Object Detection: https://arxiv.org/abs/1506.02640
 
 * YOLO V2: YOLO9000: Better, Faster, Stronger: https://arxiv.org/abs/1612.08242
@@ -41,13 +43,36 @@ CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Fea
 
 * YOLO V5: https://github.com/ultralytics/yolov5
 
+* YOLOR: You Only Learn One Representation: Unified Network for Multiple Tasks: https://arxiv.org/abs/2105.04206
+
+* YOLOX: Exceeding YOLO Series in 2021: https://arxiv.org/abs/2107.08430
+
+### Others
+
+* SSD: Single Shot MultiBox Detector: https://arxiv.org/abs/1512.02325
+
+* RetinaNet: Focal Loss for Dense Object Detection:https://arxiv.org/abs/1708.02002v2
+
+
 ## Two-Stage
 
+### R-CNN Family
+
 * RCNN: Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation: https://github.com/rbgirshick/rcnn
+
 * Fast-RCNN: https://github.com/rbgirshick/fast-rcnn
+
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks: https://github.com/rbgirshick/py-faster-rcnn
+
 * Mask-RCNN: https://arxiv.org/abs/1703.06870
+
+### Others
+
 * Feature Pyramid Networks for Object Detection: https://arxiv.org/abs/1612.03144v2
+
+* R-FCN: Object Detection via Region-based Fully Convolutional Networks: https://arxiv.org/abs/1605.06409
+
+* DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution: https://arxiv.org/abs/2006.02334
 
 # Vision Transformers
 
