@@ -53,6 +53,10 @@ CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Fea
 
 * RetinaNet: Focal Loss for Dense Object Detection:https://arxiv.org/abs/1708.02002v2
 
+* CenterNet: Objects as Points: https://arxiv.org/abs/1904.07850
+
+* EfficientDet: Scalable and Efficient Object Detection: https://arxiv.org/abs/1911.09070
+
 
 ## Two-Stage
 
