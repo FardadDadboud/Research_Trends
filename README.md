@@ -81,6 +81,15 @@ CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Fea
 * DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution: https://arxiv.org/abs/2006.02334
 
 # Vision Transformers
+## Review
+A Survey on Vision Transformer: https://ieeexplore.ieee.org/iel7/34/9970415/09716741.pdf
+## Tasks
+
+### Object Detection
+
+### Object Tracking
+
+### Sensor Fusion
 
 * An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale: https://github.com/google-research/vision_transformer
 
